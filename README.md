@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I'm Karem 
+<h4 align="left">👋 Hi, I'm Karem <br><br>
 🎯 Frontend Developer | Creative & Detail-Oriented<br><br><br>
 
 <img align="right" height="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zya2ZweXprd3VvaGkwaDV4bzdnYjh0ZnVpaDM0d3J0cDV2ZDRvbyZlcD30MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
