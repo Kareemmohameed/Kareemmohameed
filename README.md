@@ -1,7 +1,19 @@
-<h5 align="left">Hi 👋! My name is  Karem  <br><br>🎯 Frontend Developer | Creative & Detail-Oriented<br><br>I'm a passionate and results-driven Frontend Developer with a strong foundation in building
-responsive, user-friendly web interfaces. Skilled in modern web technologies and frameworks, I specialize in crafting dynamic user experiences using:<br><br>HTML5, CSS3, Bootstrap, Tailwind CSS<br><img align="right" height="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zya2ZweXprd3VvaGkwaDV4bzdnYjh0ZnVpaDM0d3J0cDV2ZDRvbyZlcD30MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  /><br>JavaScript, TypeScript, jQuery<br><br>React.js for building interactive UIs<br><br>Node.js for basic backend tasks<br><br>Figma for translating designs into code<br><br>Visual Studio Code as my primary development environment<br><br>With a keen eye for design and UX, I love turning creative ideas into real-world applications. Always learning, always building.<br><br>Let's connect and create something awesome! 🚀
-</h5>
+<h4 align="left">👋 Hi, I'm Karem 
+🎯 Frontend Developer | Creative & Detail-Oriented<br><br><br>
 
+<img align="right" height="230" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Zya2ZweXprd3VvaGkwaDV4bzdnYjh0ZnVpaDM0d3J0cDV2ZDRvbyZlcD30MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
+I'm passionate about building clean, responsive, and engaging web interfaces using:<br>
+
+
+HTML5, CSS3, JavaScript,<Br><br> React, Tailwind CSS,<br><br> TypeScript, Bootstrap, jQuery<br><br>
+I also use Figma for UI design and Node.js for basic backend tasks.
+
+With a strong focus on user experience and detail, I enjoy turning designs into reality.
+Always learning, always building. 🚀
+
+
+</h4>
 
 
 ###
