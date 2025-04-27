@@ -36,7 +36,7 @@ responsive, user-friendly web interfaces. Skilled in modern web technologies and
 
 <div align="center">
     <a href="https://discord.com">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"/>
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"  height="35" alt="discord logo"/>
     </a>
     <a href="mailto:karemmohamed254452@gmail.com">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
@@ -49,5 +49,10 @@ responsive, user-friendly web interfaces. Skilled in modern web technologies and
     </a>
 </div>
 
-![snake gif](https://github.com/Kareemmohameed/Kareemmohameed/blob/output/snake.svg)
-###
+<div align="center">
+  
+  ![snake gif](https://github.com/Kareemmohameed/Kareemmohameed/blob/output/snake.svg/)
+  
+</div>
+
+
