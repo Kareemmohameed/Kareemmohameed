@@ -7,7 +7,7 @@ I'm passionate about building clean, responsive, and engaging web interfaces usi
 
 
 HTML5, CSS3, JavaScript,<Br><br>
- React, TypeScript,<br><br>
+ React, TypeScript, , Node.js<br><br>
  Tailwind CSS, Bootstrap, jQuery<br><br>
 I also use Figma for UI design and Node.js for basic backend tasks.
 
